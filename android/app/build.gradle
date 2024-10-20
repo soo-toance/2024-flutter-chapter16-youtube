@@ -24,7 +24,7 @@ if (flutterVersionName == null) {
 
 android {
     namespace "com.sootoance.chapter16.flutter.youtube"
-    compileSdk flutter.compileSdkVersion
+    compileSdkVersion 33
     ndkVersion flutter.ndkVersion
 
     compileOptions {
